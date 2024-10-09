@@ -51,7 +51,8 @@ ul,li {
 
 .main-content {
     display: flex;
-    justify-content: center;
+    justify-content: top;
+    
     flex-direction: column;
     padding: 15px;
     background-color:#e74c3c;
@@ -261,7 +262,7 @@ footer {
       }
 
       .main-content, .extra-info {
-        paddi
+        padding:0px;
       }   
   
 }
@@ -284,14 +285,17 @@ footer {
    
   
    .main-content {
-     margin: 15px;
-     margin-left: 0px;
-     margin-right: 0px;
+    
+    margin: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
 
     
    } 
    
    .sidebar {
+    padding: 10px;
     margin-right: 0px;
 
     
