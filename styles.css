@@ -46,7 +46,7 @@ ul,li {
     
 .sidebar h2,p{
     margin: 0px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .main-content {
@@ -61,6 +61,7 @@ ul,li {
 .main-content h2 {
     color: white;
     margin: 0px;
+    margin-top: 15px;
     
 }
 
@@ -181,6 +182,7 @@ h1{
 
 .extra-info h2 { 
     margin: 0px;
+    margin-top: 10px;
     
 }           
 
